@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Grade Calculator",
+    "category": "JavaScript",
+    "description": "A student tool concept that calculates the average of entered grades.",
+    "technologies": ["JavaScript", "Forms", "Calculation"],
+    "status": "Idea",
+    "color": "#354c8c"
+  },
+  {
+    "title": "Student Task Planner",
+    "category": "HTML · CSS · JavaScript",
+    "description": "A planner concept for organizing school assignments and deadlines.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "status": "Idea",
+    "color": "#9b5d9f"
+  }
+]
